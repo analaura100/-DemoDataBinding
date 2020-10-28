@@ -25,9 +25,5 @@ namespace Simpledatabinding
             InitializeComponent();
         }
 
-        private void textotextbox_TextChanged(object sender, TextChangedEventArgs e)
-        {
-            textotextblock.Text = textotextbox.Text;
-        }
     }
 }
