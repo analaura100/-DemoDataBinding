@@ -1,0 +1,15 @@
+C:\Users\anala\source\repos\Simpledatabinding\Simpledatabinding\bin\Debug\Simpledatabinding.exe.config
+C:\Users\anala\source\repos\Simpledatabinding\Simpledatabinding\bin\Debug\Simpledatabinding.exe
+C:\Users\anala\source\repos\Simpledatabinding\Simpledatabinding\bin\Debug\Simpledatabinding.pdb
+C:\Users\anala\source\repos\Simpledatabinding\Simpledatabinding\obj\Debug\Simpledatabinding.csprojAssemblyReference.cache
+C:\Users\anala\source\repos\Simpledatabinding\Simpledatabinding\obj\Debug\MainWindow.g.cs
+C:\Users\anala\source\repos\Simpledatabinding\Simpledatabinding\obj\Debug\App.g.cs
+C:\Users\anala\source\repos\Simpledatabinding\Simpledatabinding\obj\Debug\Simpledatabinding_MarkupCompile.cache
+C:\Users\anala\source\repos\Simpledatabinding\Simpledatabinding\obj\Debug\Simpledatabinding_MarkupCompile.lref
+C:\Users\anala\source\repos\Simpledatabinding\Simpledatabinding\obj\Debug\MainWindow.baml
+C:\Users\anala\source\repos\Simpledatabinding\Simpledatabinding\obj\Debug\Simpledatabinding.g.resources
+C:\Users\anala\source\repos\Simpledatabinding\Simpledatabinding\obj\Debug\Simpledatabinding.Properties.Resources.resources
+C:\Users\anala\source\repos\Simpledatabinding\Simpledatabinding\obj\Debug\Simpledatabinding.csproj.GenerateResource.cache
+C:\Users\anala\source\repos\Simpledatabinding\Simpledatabinding\obj\Debug\Simpledatabinding.csproj.CoreCompileInputs.cache
+C:\Users\anala\source\repos\Simpledatabinding\Simpledatabinding\obj\Debug\Simpledatabinding.exe
+C:\Users\anala\source\repos\Simpledatabinding\Simpledatabinding\obj\Debug\Simpledatabinding.pdb
